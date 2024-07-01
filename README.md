@@ -10,7 +10,7 @@ Follow the given steps to run on your local
 
 #### Clone the repository: 
 ```bash
-git clone https://github.com/ideal-guy/PDf_answering_ai.git
+git clone https://github.com/mellow-75/pdf_qa.git
 ```
 
 #### Create the Directory:
