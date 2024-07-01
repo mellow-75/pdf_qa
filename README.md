@@ -1,13 +1,5 @@
-# PDF_Answering_ai
-
-#### This project enables efficient extraction, preprocessing, and querying of text content from PDF documents. Leveraging various embedding models, the system allows users to upload PDFs, input queries, and retrieve the most relevant text segments through a user-friendly interface.
-
-### Introduction
-
-#### The PDF_Answering_ai extracts and prepares text from PDF documents using Natural Language Processing (NLP) techniques and various embedding models. It enables users to query and retrieve relevant text content efficiently via a Streamlit interface.
-
-### Features
-
+# Running the code - 
+Follow the given steps to run on your local
 #### ->PDF Text Extraction: Extracts text from PDFs using the fitz library.
 #### ->NLP Preprocessing: Preprocesses text with tokenization, stop word removal, lemmatization, and punctuation removal.
 #### ->Embedding Models: Supports multiple embedding models including Word2Vec, GloVe, FastText and BERT.
